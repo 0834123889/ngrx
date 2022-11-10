@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-46754": {
+      "hosting": {
+        "angular": [
+          "angular-firebase-46754"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-46754"
+  }
+}
